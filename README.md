@@ -14,7 +14,8 @@ State space is roughly 500 and action space is 6.<br>
 is a little different with both state and action space continuous.<br>
 To use Q-learning one of ideas is to define limited number of states and actions and change or spaces into some imaginary discrete one and the use Q-learning.
 # References
-<li>[Sharif Artificial Intelligence course](https://gym.openai.com)</li>
-<li>[markov decision problem](http://ce.sharif.edu/courses/98-99/1/ce417-1/resources/root/Slides/MDP.pptx)</li>
-<li>[Reinforcement leaning](http://ce.shariurses/98-99/1/ce417-1/resources/root/Slides/Reinforcement%20Learning.pptx.zip)</li>
+[Open Ai Gym](https://gym.openai.com)<br>
+[Sharif Artificial Intelligence course]()<br>
+[markov decision problem](http://ce.sharif.edu/courses/98-99/1/ce417-1/resources/root/Slides/MDP.pptx)<br>
+[Reinforcement leaning](http://ce.shariurses/98-99/1/ce417-1/resources/root/Slides/Reinforcement%20Learning.pptx.zip)<br>
  
