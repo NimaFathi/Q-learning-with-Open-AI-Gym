@@ -4,7 +4,7 @@ In this Repo i'm my purpose was to dive into Reinforcment Learning.<br>
 One of the easiest and first algorithms in this profession is Q-learning.<br>
 Q-learning is a algorihtm that works best for problems with discrete State and action.<br>
 To work with Reinforcment Learning I use [Open AI Gym](https://gym.openai.com) that is a library with a lot of perfect game environments that you can use to see how your code works.<br>
-you can see all possible environments in <b>[Here](https://gym.openai.com/envs/#classic_control)<b>.
+you can see all possible environments in <b>[Here](https://gym.openai.com/envs/#classic_control) <b> .
 # 1- Taxi-v2:
 Taxi-v2 is a problem with discrete state and action space so that is perfect match for Q-learning.
 The point in here is we want to pick up passenger in one of 4 marked cells and deliver him/her to one of 4 marked destinations.<br>
