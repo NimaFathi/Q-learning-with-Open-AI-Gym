@@ -4,7 +4,7 @@ Q-learning on Taxi-v2 and Pendulum-v0 environments.<br>
 In this Repo my purpose was to dive into Reinforcement Learning.<br>
 One of the easiest and first algorithms in this profession is Q-learning.<br>
 Q-learning is an algorihtm that works best for problems with discrete state and action spaces.<br>
-To work with Reinforcment Learning I use [Open AI Gym](https://gym.openai.com) that is a library with a lot of perfect game environments that you can use to see how your code works.<br>
+To work with Reinforcment Learning I've used [Open AI Gym](https://gym.openai.com) that is a library with a lot of perfect game environments that you can use to see how your code works.<br>
 you can see all possible environments in <b>[Here](https://gym.openai.com/envs/#classic_control) <b> .
 # Overview
 1- <b>Taxi-v2</b> is a problem with discrete state and action spaces so that is perfect match for Q-learning.
